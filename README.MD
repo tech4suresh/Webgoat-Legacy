@@ -5,7 +5,8 @@
 
 Thank you for downloading WebGoat!  This is the WebGoat Legacy version which is essentially the WebGoat 5 with a new UI. 
 
-This program is a demonstration of common server-side application flaws. The
+This program is a demonstration of common server-side application flaws. 
+The
 exercises are intended to be used by people to learn about application
 penetration testing techniques.
 
